@@ -34,17 +34,14 @@
 
 ## ازاي تثبت Cloudflared
 
-#Termux:
-```pkg install cloudflared```
+
 #Linux: 
 1- ```wget https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb```
 2- ```sudo dpkg -i cloudflared-linux-amd64.deb```
 
 
 ## ازاي تثبت Bore
-#Termux:
-```pkg install rust```
-```cargo install bore-cli```
+
 
 #Linux: 
 ```curl -LSfs [https://raw.githubusercontent.com/borerust/bore/main/install.sh](https://raw.githubusercontent.com/borerust/bore/main/install.sh) | sh```
@@ -53,10 +50,6 @@
 
 
 ## ازاي تثبت Localtunnel
-
-#Termux:
-```pkg install nodejs```
-```npm install -g localtunnel```
 
 #Linux: 
 ```sudo apt install nodejs npm```
@@ -73,7 +66,4 @@
 3. بتشغله بطريقه دي واي مشكله تظهرلك اتبع تعليمات تثبيت ادوات سرفر لو مشكله غير مسبوقه من كود نفسها يعني  يريت تبعتلي سكرين شوت علي تيلجرام Baylaks وانشاء الله هرد في اسرع وقت بلحل
 ```python3 main.py```
 
-4- اهم  حاجه لو انت تريمكس فا لازم تفعل صلاحيات التخزين بتع تريمكس مهم جدا عشان ميحصلش مشاكل اهو الامر يحب ❤️
-
-```termux-setup-storage```
 
