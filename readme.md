@@ -66,10 +66,10 @@
 
 ## ازاي تثبت الاداه وتشغلها
 1. اول حاجه  بتحمل مستودع كامل بتع الادوات
-```git clone https://github.com/BayLak-Egypt/Termux-Scripts.git```
+```git clone https://github.com/BayLak-Egypt/Cam-Shot.git```
 2. تاني حاجه تخش علي فلدر دا بطريقه دي
 
-```cd Termux-Scripts/Cam-ShotV1.1```
+```cd Cam-Shot```
 3. بتشغله بطريقه دي واي مشكله تظهرلك اتبع تعليمات تثبيت ادوات سرفر لو مشكله غير مسبوقه من كود نفسها يعني  يريت تبعتلي سكرين شوت علي تيلجرام Baylaks وانشاء الله هرد في اسرع وقت بلحل
 ```python3 main.py```
 
