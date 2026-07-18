@@ -3,7 +3,7 @@
 # 🛡️ Advanced Multi-Tracker & Snapper
 
 # Cam-Shot اداه اصدار v1.1
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/746e457f-1209-4041-93f2-b47f93e5ac46" />
 "أداة احترافية متقدمة مبنية باستخدام لغتي Python و PHP لتتبع الزوار، وجلب بيانات موقعهم الجغرافي، والتقاط صور تلقائية من الكاميرا (بعد الحصول على إذن) باستخدام تقنية سرفرات المتعدده."
 
 
