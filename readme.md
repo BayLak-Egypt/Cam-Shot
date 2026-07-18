@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/BayLak-ONE/Termux-Scripts/blob/main/Cam-ShotV1.0/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A5-%D9%A1%D9%A2-%D9%A2%D9%A1-%D9%A0%D9%A1-%D9%A3%D9%A4-%D9%A5%D9%A0-%D9%A4%D9%A0_84d3000e3f4017145260f7618db1d683.jpg)
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/1fadd610-0881-45fd-b6cd-5ae7fc2a8463" />
 # 🛡️ Advanced Multi-Tracker & Snapper
 # Cam-Shot Tools v1.0 By BayLak
 An advanced professional tool built with **Python** and **PHP** to track visitors, fetch their geolocation data, and automatically capture camera snapshots (upon permission) using **Cloudflare Tunneling** technology.
